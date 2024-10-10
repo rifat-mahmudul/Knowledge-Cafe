@@ -1,4 +1,6 @@
 import './App.css'
+import Blogs from './components/Header/Blogs/Blogs'
+import Header from './components/Header/Header'
 
 function App() {
 
@@ -6,8 +8,8 @@ function App() {
     <>
       
 
-      <h1>Hi, I am Rifat</h1>
-      <p>Full Stack Developer From Bangladesh</p>
+      <Header></Header>
+      <Blogs></Blogs>
 
 
     </>
