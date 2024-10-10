@@ -1,6 +1,6 @@
 const BookMarks = () => {
     return (
-        <div>
+        <div className="w-[40%] border-2 border-red-500">
         <h2>BookMarks</h2>
         </div>
     )

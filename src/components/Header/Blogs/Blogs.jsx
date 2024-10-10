@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Blog from "../../Blog/Blog";
 
 const Blogs = () => {
 
@@ -13,8 +14,11 @@ const Blogs = () => {
     }, [])
 
     return (
-        <div>
-            <h2>Blogs : {blogs.length}</h2>
+        <div className="w-[59%]">
+
+            {
+                blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+            }
         </div>
     )
 }

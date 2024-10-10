@@ -1,52 +1,42 @@
     [
         {
         "id": 1,
-        "cover": "https://example.com/cover1.jpg",
+        "cover": "https://i.ibb.co.com/g3m2jGk/2.png",
         "title": "The Future of AI",
         "author": "John Doe",
-        "author_img": "https://example.com/author1.jpg",
+        "author_img": "https://i.ibb.co.com/L6yFqvP/boy1.png",
         "posted_date": "2024-09-28",
         "reading_time": "7 min",
         "hashtags": ["#AI", "#technology", "#future"]
         },
         {
         "id": 2,
-        "cover": "https://example.com/cover2.jpg",
+        "cover": "https://i.ibb.co.com/1Q4jVkY/1.jpg",
         "title": "Exploring Space: Next Frontier",
         "author": "Jane Smith",
-        "author_img": "https://example.com/author2.jpg",
+        "author_img": "https://i.ibb.co.com/PG7xBFN/boy2.jpg",
         "posted_date": "2024-08-15",
         "reading_time": "10 min",
         "hashtags": ["#space", "#exploration", "#science"]
         },
         {
         "id": 3,
-        "cover": "https://example.com/cover3.jpg",
+        "cover": "https://i.ibb.co.com/XyRLxbs/4.jpg",
         "title": "Climate Change: Urgency of Action",
         "author": "Alice Green",
-        "author_img": "https://example.com/author3.jpg",
+        "author_img": "https://i.ibb.co.com/pxSMspF/girl1.jpg",
         "posted_date": "2024-10-05",
         "reading_time": "8 min",
         "hashtags": ["#climate", "#environment", "#globalwarming"]
         },
         {
         "id": 4,
-        "cover": "https://example.com/cover4.jpg",
+        "cover": "https://i.ibb.co.com/cLw48gL/3.png",
         "title": "Blockchain Revolution: Beyond Cryptocurrency",
         "author": "David Lee",
-        "author_img": "https://example.com/author4.jpg",
+        "author_img": "https://i.ibb.co.com/JnztTX6/girl2.jpg",
         "posted_date": "2024-07-22",
         "reading_time": "6 min",
         "hashtags": ["#blockchain", "#crypto", "#innovation"]
-        },
-        {
-        "id": 5,
-        "cover": "https://example.com/cover5.jpg",
-        "title": "Health Tech Innovations of 2024",
-        "author": "Emily White",
-        "author_img": "https://example.com/author5.jpg",
-        "posted_date": "2024-09-10",
-        "reading_time": "9 min",
-        "hashtags": ["#healthtech", "#innovation", "#2024"]
         }
     ]

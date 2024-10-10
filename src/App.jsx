@@ -9,12 +9,8 @@ function App() {
     <>
       <Header></Header>
       <main className='max-w-[1150px] mx-auto flex justify-between items-start mt-4'>
-        <div className="w-[69%] border-2 border-green-500">
           <Blogs></Blogs>
-        </div>
-        <div className="w-[29%] border-2 border-red-500">
           <BookMarks></BookMarks>
-        </div>
       </main>
 
 
